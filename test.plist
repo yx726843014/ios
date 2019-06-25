@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>items</key>
+        <array>
+            <dict>
+                <key>assets</key>
+                <array>
+                    <dict>
+                        <key>kind</key>
+                        <string>software-package</string>
+                        <key>url</key>
+                        <string>http://1.1.7.56:8481/apps/download-app/0/9e8eb424a533434291df8f8ae249112a</string>
+                    </dict>
+                </array>
+                <key>metadata</key>
+                <dict>
+                    <key>bundle-identifier</key>
+                    <string>com.aldb.ios.magic.199947</string>
+                    <key>bundle-version</key>
+                    <string>v1.1.1.RELEASE</string>
+                    <key>kind</key>
+                    <string>software</string>
+                    <key>title</key>
+                    <string>七匹狼apk</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>
